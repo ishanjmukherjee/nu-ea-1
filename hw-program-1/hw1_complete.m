@@ -2,6 +2,7 @@
 %
 % Name:     Mukherjee, Ishan
 % Date:     09/29/2023
+% Grade:    100%
 
 % Get user input for value of N and d
 N = input("Hyperlink matrix size: ");
