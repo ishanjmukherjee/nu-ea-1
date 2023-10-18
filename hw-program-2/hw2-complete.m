@@ -2,6 +2,7 @@
 %
 % Name: Mukherjee, Ishan
 % Date: 10/6/2023
+% Grade: 100%
 
 % Get inputs:
 d = input("d: ");
