@@ -1,4 +1,4 @@
-% Homework Program 3
+% Homework Program 2
 %
 % Name: Mukherjee, Ishan
 % Date: 10/6/2023
