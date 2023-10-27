@@ -1,7 +1,8 @@
 % EA 1, Homework program assignment 3
 %
-% Name: Mukherjee, Ishan
-% Date: 10/12/2023
+% Name:     Mukherjee, Ishan
+% Date:     10/12/2023
+% Grade:    100%
 
 % Data hygiene
 clear; clc;
