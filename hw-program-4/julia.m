@@ -1,3 +1,10 @@
+% Homework Program 4
+%
+% Name:     Mukherjee, Ishan
+% Section:  22
+% Date:     10/20/2023
+% Grade:    100%
+
 function [EscTime, EscVal, Image] = julia(c, limits, nx, ny, maxEscTime)
 %julia Visualize Julia set
 % Function julia visualizes Julia sets for a given parameter c in the 
@@ -16,12 +23,6 @@ function [EscTime, EscVal, Image] = julia(c, limits, nx, ny, maxEscTime)
 %   EscTime     -- ny-by-nx array of escape times for each pixel
 %   EscVal      -- ny-by-nx array of escape values for each pixel
 %   Image       -- array of color data for image
-
-% Homework Program 4
-%
-% Name:     Mukherjee, Ishan
-% Section:  22
-% Date:     10/20/2023
 
 % Set escape radius
 R = (1+sqrt(1+4*abs(c)))/2;
