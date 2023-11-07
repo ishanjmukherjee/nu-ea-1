@@ -3,6 +3,7 @@
 % Name:     Mukherjee, Ishan
 % Section:  22
 % Date:     10/27/2023
+% Grade:    100%
 
 function [M, pivots] = reduce(M, verbose)
 %reduce Returns reduced echelon form of given matrix and array of pivot
