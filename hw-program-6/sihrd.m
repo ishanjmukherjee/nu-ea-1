@@ -3,6 +3,7 @@
 % Name:     Mukherjee, Ishan
 % Section:  22
 % Date:     11/03/2023
+% Grade:    100%
 
 function s = sihrd(steps, s_init, param, deter)
 %sihrd Returns a matrix of state vectors and plots states of the SIHRD
