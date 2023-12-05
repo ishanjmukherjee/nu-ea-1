@@ -16,6 +16,7 @@ function [cs, ns, coords_cs, coords_ns] = find_bases(A, b)
 % Name:     Mukherjee, Ishan
 % Section:  22
 % Date:     11/16/2023
+% Grade:    100%
 
 % Argument validators
 arguments
